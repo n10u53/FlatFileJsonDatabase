@@ -1,0 +1,19 @@
+{
+  "name": "flatfilejsondatabase",
+  "version": "0.0.1",
+  "description": "A simple Json, object-like, database stored locally in a .json file.",
+  "main": "database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n1ouse/FlatFileJsonDatabase.git"
+  },
+  "author": "n1ouse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n1ouse/FlatFileJsonDatabase/issues"
+  },
+  "homepage": "https://github.com/n1ouse/FlatFileJsonDatabase#readme"
+}
